@@ -1,0 +1,92 @@
+
+
+
+
+h1   {
+        
+        color: White;
+        text-align: center;
+        font-family: Montserrat;
+        text-decoration: dotted;
+        text-transform: uppercase;
+        
+
+      }
+body {
+    background-color: #2d94ad;
+}
+
+::selection {
+
+    background-color: white;
+    color: black;
+}
+
+#welcome {
+
+ 
+    padding-top: 10%;
+
+
+}
+p {
+    color: White;
+    font-family: Montserrat;
+    text-align: center;
+}
+
+#typer {
+    text-align: center;
+    font-family: Montserrat;
+    color: White;
+   
+}
+
+#sButton, button {
+
+    text-align: center;
+    font-family: Montserrat;
+    color: white;
+    background-color: green;
+    font-size: 18px;
+    border-color: green;
+    align-items: center;
+    display: block;
+    margin: 0 auto;
+    
+
+}
+.input {
+    color: black;
+        text-align: center;
+        font-family: Montserrat;
+        text-decoration: dotted;
+        text-transform: uppercase;
+
+}
+.forcast {
+
+    color: White;
+    text-align: center;
+    font-family: Montserrat;
+    text-decoration: dotted;
+    text-transform: uppercase;
+    line-height: 1.5em;
+    border: solid white;
+    border-style: dotted;
+    
+    
+
+}
+
+#homeframe {
+    border: solid white;
+    border-style: dotted;
+    text-decoration: dotted;
+    line-height: 1.5em;
+}
+
+b {
+   
+    color: black;
+}
